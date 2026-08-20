@@ -5,4 +5,4 @@ examples:
 3. Study or watch videos. Turbines, DAS, Vitis, IP block integrator boards. This is for turbines-tests-engeenering: Describe the tests for voxels, CFD, voxel geometries, walls, and analyze refrigeration chambers with your files
 
 link1:https://docs.amd.com/v/u/en-US/ug1267-zcu104-eval-bd
-link2: https://docs.amd.com/r/en-US/ug949-vivado-design-methodology/Decomposing-Deeper-Memory-Configurations-for-Balanced-Power-and-Clock-Frequency
+OPTIONAL: https://github.com/Xilinx/XilinxTclStore/blob/master/tclapp/xilinx/ultrafast/check_bd_axi_interface.tcl
