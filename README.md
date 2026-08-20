@@ -1,6 +1,6 @@
 # dtpi
 examples:
-1. AXI repository and kernels with AI test benches and describe or architect TCL from the Xilinx tclstore
+1. AXI repository and kernels with AI test benches and describe or architect TCL from the Xilinx tclstore:https://docs.amd.com/r/en-US/ug949-vivado-design-methodology/Decomposing-Deeper-Memory-Configurations-for-Balanced-Power-and-Clock-Frequency
 2. Voxel testing
 3. Study or watch videos. Turbines, DAS, Vitis, IP block integrator boards. This is for turbines-tests-engeenering: Describe the tests for voxels, CFD, voxel geometries, walls, and analyze refrigeration chambers with your files
 
