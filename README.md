@@ -6,3 +6,5 @@ examples:
 
 link1:https://docs.amd.com/v/u/en-US/ug1267-zcu104-eval-bd
 OPTIONAL: https://github.com/Xilinx/XilinxTclStore/blob/master/tclapp/xilinx/ultrafast/check_bd_axi_interface.tcl
+
+# others: https://github.com/IIC2343/Syllabus-2026-2/blob/main/Material%20Extra/IIC2343_2025_2_Guia_RISCV.pdf
